@@ -22,4 +22,9 @@ public class Estudiante extends Persona {
         this.Carrera = Carrera;
     }
     
+    public void Mostrar(){
+        System.out.println("Hola "+primerNombre);;
+                
+    } 
+    
 }
